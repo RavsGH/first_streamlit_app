@@ -1,6 +1,6 @@
 import streamlit
 import pandas
-/*streamlit.title('My Parents New Healthy Diner')*/
+///streamlit.title('My Parents New Healthy Diner')///
 streamlit.title('Dear Jyoti, Your Healthy Diet Plan is here')
 
 streamlit.header('Breakfast Favorites')
